@@ -36,6 +36,7 @@ I expect following challenges:
 3.	In analysis, I might need more information, that dataset has; 
 4.	Topic is very complex, and within the project I can’t look at it from every angle. So, I’ll have to decide on which part to focus.
 ---
+
 &emsp; During the implementation of the project, I was right about expected challenges – I used 3 more datasets, found pattern could not be used to make prediction, and while analyzing carbon footprint data, I had to focus on data that is connected to energy usage.  
 &emsp; The next step in the course was data cleaning. I hoped, that dataset is ready to use, but I always check data for incorrect calculations, missing data and outliers. Also, in the cleaning process I remove all unnecessary data, that won’t be used in calculations, analysis and visualization.
 ---
@@ -100,8 +101,10 @@ Course task was to explain my use of pre-attentive attributes:
 ---
 ## Analysis  
 
+
+*By clicking on the image, you are redirected to the dynamic visualization on the Tableau Public website*  
+
 ---
-*By clicking on the image, you are redirected to the dynamic visualization on the Tableau Public website*
 
 ### Introduction
 
@@ -127,7 +130,8 @@ How much CO2 emissions produced to make 1 TWh of energy:
 ---
 ### Territorial emissions of carbon dioxide (CO2) and it trends
 Map shows how high each country generates CO2 emissions:  
-[![](./assets/1_Emission_map.jpg)](https://public.tableau.com/shared/P2DFN2K4Q?:display_count=n&:origin=viz_share_link)  
+[![](./assets/1_Emission_map.jpg)](https://public.tableau.com/shared/P2DFN2K4Q?:display_count=n&:origin=viz_share_link)   
+
 
 &emsp; We can see the top 10 countries that produce most of world’s emissions. China, which takes first place and produces largest amount of emissions, produces alone as much as next in the top four countries combined.  
 &emsp; In the graph, we can see the correlation between GPD growth and amount of emissions. Larger GDP leads to larger yearly emissions. This means that countries that are developing manufacturing, should try to use low carbon energy sources for new developments, as well as modernize old ones. Strives for a growing economy should not impact the world and change climate.  
@@ -135,7 +139,8 @@ Map shows how high each country generates CO2 emissions:
 ---
 ### Emissions of carbon dioxide (CO2) embedded in trade  
 The map shows the import/export of CO2 emissions:  
-[![](./assets/2_Export_CO2.jpg)](https://public.tableau.com/shared/D2TY55ZBN?:display_count=n&:origin=viz_share_link)  
+[![](./assets/2_Export_CO2.jpg)](https://public.tableau.com/shared/D2TY55ZBN?:display_count=n&:origin=viz_share_link)    
+
 
 &emsp; This map shows CO2 emissions embedded in trade, which is the amount of CO2 that is imported or exported via traded goods with other economies. A positive (“red”) value means, that a country is an importer of CO2 emissions; a negative (“green”) value indicates a country is an exporter of CO2. A lot of companies use China for its goods production, thus making China the highest exporter of CO2 emissions. USA is the highest CO2 emissions importer, while it also takes the second place in the amount of CO2 produced on its own territory.  
 &emsp; Bar chart shows the share of countries import coming from China. In 2019, 86 countries had more than 50% of its import from China. This mean that world depends on China production, and it should consider investing in climate friendly technologies there.  
@@ -144,12 +149,14 @@ The map shows the import/export of CO2 emissions:
 The graph shows how high are CO2 emissions from different sources:  
 [![](./assets/3_CO2_category.jpg)](https://public.tableau.com/shared/99WSN35J3?:display_count=n&:origin=viz_share_link)  
 
+
 &emsp; 1 MWh energy from coal produces the largest amount of CO2 emissions; use of coal was rapidly growing for last 20 years. China uses coal for the vast majority of its energy needs, and for the last 20 years coal usage tripled there. USA is the leading CO2 emissions produced from oil and gas. Both countries should minimize use of coal and oil by switching to low carbon alternatives. Furthermore, they should try to use gas in the transition period, if possible.  
 &emsp; Adjusting CO2 emissions for trade, didn’t change first six countries position on the top of largest emissions producers. For China, trade CO2 is less than 10% of all emissions produced. While making production of goods climate friendly is important, large amount of energy is used for peoples’ everyday life. We need energy for heating and/or cooling buildings, for cooking, to produce electricity and etc. This means, that country’s needs for energy depends on the size of population to a great extent.  
 ---
 ### Worlds energy consumption data  
 This dashboard shows worlds energy consumption profile:  
-[![](./assets/4_All_energy.jpg)](https://public.tableau.com/shared/QKFDMRQGJ?:display_count=n&:origin=viz_share_link)  
+[![](./assets/4_All_energy.jpg)](https://public.tableau.com/shared/QKFDMRQGJ?:display_count=n&:origin=viz_share_link)   
+
 *Individual country energy consumption profile could be seen on Tableau website using filter or clicking on the country on the map.*  
 
 &emsp; It’s important to look at both absolute and "per person" data. From the chart on the bottom we can see that per capita energy consumption doesn’t change a lot, while in absolute numbers our need for energy growth explosively.  
@@ -157,27 +164,31 @@ This dashboard shows worlds energy consumption profile:
 ---
 ### Share (%) of low carbon energy   
 Map shows utilization of low carbon energy:  
-[![](./assets/5_Low_carbon_share.jpg)](https://public.tableau.com/shared/FCFBNQ8QJ?:display_count=n&:origin=viz_share_link)  
+[![](./assets/5_Low_carbon_share.jpg)](https://public.tableau.com/shared/FCFBNQ8QJ?:display_count=n&:origin=viz_share_link)   
+
 
 &emsp; This board shows, that only a few countries achieved considerable share of low carbon energy. Some of these countries will be analyzed later in the project.  
 &emsp; Building low carbon energy source infrastructure used to be linked to high expenses that not all countries could afford. The graph shows no correlation between GDP size and countries share of low carbon energy, meaning that having powerful economic situation doesn’t lead to developing climate friendly energy sources.  
 ---
 ### Low carbon energy consumption per capita by categories  
 Graph shows energy consumption data by its source:  
-[![](./assets/6_LC_by_category.jpg)](https://public.tableau.com/shared/BTD9MK8J8?:display_count=n&:origin=viz_share_link)  
+[![](./assets/6_LC_by_category.jpg)](https://public.tableau.com/shared/BTD9MK8J8?:display_count=n&:origin=viz_share_link)    
+
 
 &emsp; As we can see, while all low carbon sources energy use was growing, nuclear energy was declining for more than a decade, until only in a recent year it changed.  
 &emsp; Biofuel is derived from biomass (plant or algae material or animal waste) and is most commonly used in countries with large agriculture lands. In Sweden it is recycled wood, in USA it is corn and in Brazil it’s sugarcane.  Countries with rivers, especially steep ones, located in the mountains, tend to utilize hydropower. Iceland uses meltwater rivers flowing off massive glaciers, Norway makes use of heavy rainfalls in steep valleys, which leads to high levels of running water in rivers and waterfalls, Canada built dams around large water reservoirs. Nuclear plants are often built in countries with low seismic activity like France, Finland and Switzerland. Sometimes, countries located in active seismic area, like Japan, also build nuclear plants, but use a lot more plant protection to withstand earthquakes. Unfortunately, sometimes safety measures fail, so the government needs to make a well-thought-out decision to build a nuclear plant. Iceland is very known for its hot springs, and makes a good use of geothermal energy, where approximately 85% of all houses are heated with such energy. Solar energy efficiency depends on many various factors, like latitude, temperature, shading from clouds and etc. Lately, the development of batteries that became more capacious and cheaper made solar panel application wider. Broad use of solar panels could be seen in countries located close to equator, like Australia, Oceania and United Arab Emirates. Wind energy is also very depended on geographical location, where wind farms should be located in the windiest places possible, to maximise the energy they create. Generally, it’s large open plains, tops of the hills and mountain gaps, and also offshore in the sea. Denmark has average wind availability onshore, but having access to the sea, it had setup large offshore wind farms, producing more than 40% of all electricity needs. Ireland, having more than 300 wind farms onshore, provides more than 1/3 of its electrical demands with wind power. To sum up, application of low carbon energy sources depends on country’s geographical profile, and governments should make detailed evaluations, as to which technology would be the most efficient in their country.  
 &emsp; Next, we will look closer to countries, who achieved at least 30% of low carbon energy share.  
 ---
 ### Countries with high share of low carbon energy sources  
-[![](./assets/7_High_lce_share.jpg)](https://public.tableau.com/shared/ZX2Q9BSJR?:display_count=n&:origin=viz_share_link)  
+[![](./assets/7_High_lce_share.jpg)](https://public.tableau.com/shared/ZX2Q9BSJR?:display_count=n&:origin=viz_share_link)   
+
 
 &emsp; Norway and Switzerland had high share of low carbon energy from the start of this dataset’s tracking period, so it can’t be linked to the growth of GDP per capita. Norway is a good example of government choices for climate friendly energy. While having large oil and natural gas reserves, Norway mostly uses hydropower as the primary energy source.  
 
 ---
 ### Countries, which reached high share of low carbon energy sources  
-[![](./assets/8_High_lceg_share.jpg)](https://public.tableau.com/shared/3MTPC7RN4?:display_count=n&:origin=viz_share_link)  
+[![](./assets/8_High_lceg_share.jpg)](https://public.tableau.com/shared/3MTPC7RN4?:display_count=n&:origin=viz_share_link)    
+
 
 &emsp; In last 50 years Iceland and Sweden developed their energy system, so that more than half of their energy would come from low carbon energy sources. Iceland reached the highest share in the world (86,9%) in the past few years. We can see the correlation of economic progress (GDP) and growing share of climate friendly energy sources.  
 
@@ -185,11 +196,13 @@ Graph shows energy consumption data by its source:
 ### Large countries  
 [![](./assets/9_Large_countries.jpg)](https://public.tableau.com/shared/C56TS2679?:display_count=n&:origin=viz_share_link)  
 
+
 &emsp; Large area countries have more challenges with energy infrastructure, their energy delivery system needs to be significantly larger; it is especially challenging to deliver energy to remote areas. For small area countries main expenses are related to building energy production sites. For larger countries it’s both – production and delivery of energy. Maintenance of larger infrastructure also takes more resources. It could be a reason that correlation between GDP growth and share of low carbon energy sources is less significant for these countries.  
 
 --- 
 ### Average countries, which reached 30%+ low carbon energy share  
-[![](./assets/10_Average_country.jpg)](https://public.tableau.com/shared/6WKXPSPS9?:display_count=n&:origin=viz_share_link)  
+[![](./assets/10_Average_country.jpg)](https://public.tableau.com/shared/6WKXPSPS9?:display_count=n&:origin=viz_share_link)   
+
 
 &emsp; This dashboard shows average case of countries, which develop their country energy system by growing its share of low carbon energy. We can see a correlation, that economic expansion helps increase share of low carbon sources energy.  
 
@@ -197,12 +210,14 @@ Graph shows energy consumption data by its source:
 ### Countries with relatively lower GDP  
 [![](./assets/11_Low_gdp.jpg)](https://public.tableau.com/shared/TTFFNQFWJ?:display_count=n&:origin=viz_share_link)  
 
+
 &emsp; Countries like Ecuador and Colombia don’t have as strong of an economy, as countries we looked at before, but they still managed to achieve more than 30% share of low carbon energy sources. That means that in order to make changes for the climate and the world, countries don’t always need a thriving economy. So, these countries have insignificant correlation between GDP and share of low carbon energy sources.  
 
 ---
 ### Does going for climate friendly energy depends on country economic level (GDP)?  
 This table shows the year, when country reached at least 30% share of low carbon energy (for Norway and Switzerland its first data tracking year) and how high was its GDP per capita.
-[![](./assets/12_inflation.jpg)](https://public.tableau.com/shared/8C7WB8D7Z?:display_count=n&:origin=viz_share_link)  
+[![](./assets/12_inflation.jpg)](https://public.tableau.com/shared/8C7WB8D7Z?:display_count=n&:origin=viz_share_link)   
+
 
 &emsp; At the first glance I could assume, that having growing economy of 17.000-22.000$ GDP per capita would be one of the factors for developing low carbon energy source system, but I can’t compare data from 1965 and 1981, because of inflation: its buying power differs.  
 &emsp; To compare data from different countries and over time, I need to use Real GPD economic measure. Real GDP per capita is a measurement of the total economic output of a country divided by the number of people and adjusted for inflation.  
