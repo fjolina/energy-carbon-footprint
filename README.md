@@ -212,6 +212,7 @@ This table shows the year, when country reached at least 30% share of low carbon
 &emsp; At the first glance I could assume, that having growing economy of 17.000-22.000$ GDP per capita would be one of the factors for developing low carbon energy source system, but I can’t compare data from 1965 and 1981, because of inflation: its buying power differs.  
 &emsp; To compare data from different countries and over time, I need to use Real GPD economic measure. Real GDP per capita is a measurement of the total economic output of a country divided by the number of people and adjusted for inflation.  
 &emsp; Data shows, that there is no correlation between countries economic strength and its application level of low carbon energy source systems. It could be done and with strong economy like in Denmark, and with relatively small GDP like in Colombia.  
+
 ---
 ### Conclusion ###
 1. There is no economic level (GDP) to be reached for country to start investing in low carbon energy sources. So, no one should wait for its economy to grow, to start changing its energy sources.
