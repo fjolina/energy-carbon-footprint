@@ -109,8 +109,7 @@ Course task was to explain my use of pre-attentive attributes:
 
 ---  
 
-## Analysis  ##
-
+## Analysis  ##  
 
 *By clicking on the image, you are redirected to the dynamic visualization on the Tableau Public website*  
 
@@ -253,7 +252,8 @@ This table shows the year, when country reached at least 30% share of low carbon
 
 ---  
 
-### Sources: ###
+### Sources: ###  
+
 [^1]: “The Peoples' Climate Vote” United Nations Development Programme, January 26, 2021, https://www.undp.org/publications/peoples-climate-vote  
 [^2]: “Data on energy” by Our World in Data, version from August 9, 2022, https://github.com/owid/energy-data    
 [^3]: “Data on CO2 and greenhouse gas emissions” by Our World in Data, version from September 6, 2022, https://github.com/owid/co2-data  
