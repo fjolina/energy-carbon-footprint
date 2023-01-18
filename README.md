@@ -113,7 +113,6 @@ Course task was to explain my use of pre-attentive attributes:
 
 *By clicking on the image, you are redirected to the dynamic visualization on the Tableau Public website*  
 
----
 
 ### Introduction ###
 
